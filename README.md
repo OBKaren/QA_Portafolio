@@ -1,4 +1,4 @@
-# KO – QA Automation & Performance Portfolio
+# Karen Otoya – QA Automation & Performance Portfolio
 
 ![QA Automation & Performance](https://img.shields.io/badge/QA-Automation%20%26%20Performance-blue)
 
