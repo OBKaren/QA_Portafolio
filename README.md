@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mí
 
-Soy un QA Tester con 5 años de experiencia en pruebas funcionales y un año en automatización, enfocado en mejorar el rendimiento y la calidad de las aplicaciones. Con habilidades en **Java**, **Selenium**, **SQL**, **Liferay**, **WordPress**, y herramientas de performance como **Lighthouse** y **WebPageTest**.
+Soy un QA Tester con **5 años de experiencia** en pruebas funcionales y **1 año en automatización**, con un fuerte enfoque en **performance frontend**. Tengo experiencia utilizando herramientas como **Selenium**, **Java**, **SQL**, **Liferay**, **WordPress** y herramientas de **performance** como **Lighthouse**, **WebPageTest** y **GTmetrix**.
 
-Actualmente, me encuentro en transición hacia un enfoque 100% automatizado, optimizando la experiencia de usuario y desempeño de sitios web.
+Mi objetivo es mejorar la calidad del software a través de **pruebas automatizadas** y la optimización de la experiencia de usuario y rendimiento de los sitios web.
 
 ---
 
