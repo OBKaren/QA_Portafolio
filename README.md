@@ -56,8 +56,8 @@ Generación de informes y mejoras en los tiempos de carga y UX a través de aná
 
 Si deseas saber más sobre mi experiencia y proyectos, puedes contactarme a través de:
 
-- **LinkedIn**: [Tu perfil de LinkedIn]
-- **Correo**: [Tu correo]
+- **LinkedIn**: www.linkedin.com/in/otoya-karen-a89009309
+- **Correo**: otoyakaren11@gmail.com
 
 ---
 
