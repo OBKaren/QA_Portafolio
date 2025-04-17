@@ -21,7 +21,6 @@ bdd-tests/ | Automatización con enfoque BDD usando Serenity + JUnit
 mobile-tests/ | Automatización de pruebas móviles con Appium
 data/ | Consultas SQL aplicadas al testing de bases de datos
 docs/ | Guías, documentación, CV y recursos útiles del ecosistema QA
-
 ---
 
 ## 📋 Actividades Realizadas
