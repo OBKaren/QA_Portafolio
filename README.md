@@ -12,15 +12,16 @@ Mi objetivo es mejorar la calidad del software a través de **pruebas automatiza
 
 ## 📁 Estructura del repositorio
 
-Carpeta | Descripción
-functional-tests/ | Pruebas automatizadas utilizando Selenium + Java
-api-tests/ | Pruebas de API con Postman y reportes automatizados
-performance-tests/ | Scripts de análisis de performance con Lighthouse, WebPageTest y GTmetrix
-accessibility-tests/ | Evaluación de accesibilidad web con Axe y Lighthouse
-bdd-tests/ | Automatización con enfoque BDD usando Serenity + JUnit
-mobile-tests/ | Automatización de pruebas móviles con Appium
-data/ | Consultas SQL aplicadas al testing de bases de datos
-docs/ | Guías, documentación, CV y recursos útiles del ecosistema QA
+| Carpeta                  | Descripción                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `functional-tests/`      | Pruebas automatizadas utilizando Selenium + Java                           |
+| `api-tests/`             | Pruebas de API con Postman y reportes automatizados                        |
+| `performance-tests/`     | Scripts de análisis de performance con Lighthouse, WebPageTest y GTmetrix  |
+| `accessibility-tests/`   | Evaluación de accesibilidad web con Axe y Lighthouse                       |
+| `bdd-tests/`             | Automatización con enfoque BDD usando Serenity + JUnit                     |
+| `mobile-tests/`          | Automatización de pruebas móviles con Appium                               |
+| `data/`                  | Consultas SQL aplicadas al testing de bases de datos                       |
+| `docs/`                  | Guías, documentación, CV y recursos útiles del ecosistema QA               |
 ---
 
 ## 📋 Actividades Realizadas
