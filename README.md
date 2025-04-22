@@ -22,6 +22,8 @@ Mi objetivo es mejorar la calidad del software a través de **pruebas automatiza
 | `mobile-tests/`          | Automatización de pruebas móviles con Appium                               |
 | `data/`                  | Consultas SQL aplicadas al testing de bases de datos                       |
 | `docs/`                  | Guías, documentación, CV y recursos útiles del ecosistema QA               |
+| `evidencias-qa-manual/`  | Evidencias prácticas del curso de QA Manual: casos de prueba, defectos y más |
+
 ---
 
 ## 📋 Actividades Realizadas
