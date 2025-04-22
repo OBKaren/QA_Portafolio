@@ -8,7 +8,7 @@ Esta carpeta contiene documentos clave que forman parte de mi portafolio como QA
 
 | Archivo / Carpeta                   | Descripción                                                                     |
 |------------------------------------|-----------------------------------------------------------------------------|
-| `CV_Karen_Ortiz_QA.pdf`            | CV actualizado con experiencia profesional, formación y certificaciones                        |
+| `CV_OTOYA_BRAVO_KAREN.pdf`         | CV actualizado con experiencia profesional, formación y certificaciones                        |
 | `recursos-qa-web.md`               | Listado curado de herramientas útiles para pruebas funcionales y no funcionales (En progreso)  |
 | `checklists/`                      | Plantillas y listas de verificación para distintos tipos de pruebas QA    (En progreso)        |
 
