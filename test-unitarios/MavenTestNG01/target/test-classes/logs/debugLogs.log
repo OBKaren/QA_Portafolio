@@ -1,0 +1,5 @@
+07:52:57.872 INFO  AUTOMATION - Setup del padre
+07:52:58.024 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:52:58.096 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:52:58.473 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+07:52:58.480 INFO  AUTOMATION - Teardown del padre
