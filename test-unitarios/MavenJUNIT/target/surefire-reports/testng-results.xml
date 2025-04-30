@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-30T09:24:27 PET" name="Surefire suite" finished-at="2025-04-30T09:24:28 PET" duration-ms="1323">
+    <groups>
+      <group name="regression">
+        <method signature="ExcelMostruoTests.cuartoTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="cuartoTest" class="principal.ExcelMostruoTests"/>
+        <method signature="ExcelMostruoTests.primerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="primerTest" class="principal.ExcelMostruoTests"/>
+        <method signature="ExcelMostruoTests.segundoTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="segundoTest" class="principal.ExcelMostruoTests"/>
+        <method signature="ExcelMostruoTests.tercerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="tercerTest" class="principal.ExcelMostruoTests"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="ExcelMostruoTests.primerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="primerTest" class="principal.ExcelMostruoTests"/>
+        <method signature="ExcelMostruoTests.segundoTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="segundoTest" class="principal.ExcelMostruoTests"/>
+        <method signature="ExcelMostruoTests.tercerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" name="tercerTest" class="principal.ExcelMostruoTests"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-04-30T09:24:27 PET" name="Surefire test" finished-at="2025-04-30T09:24:28 PET" duration-ms="1323">
+      <class name="principal.ExcelMostruoTests">
+        <test-method is-config="true" signature="masterSetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:27 PET" name="masterSetUp" finished-at="2025-04-30T09:24:27 PET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterSetUp -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:27 PET" name="SetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="cuartoTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="cuartoTest" finished-at="2025-04-30T09:24:28 PET" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cuartoTest -->
+        <test-method is-config="true" signature="masterTearDown()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterTearDown" finished-at="2025-04-30T09:24:28 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterTearDown -->
+        <test-method is-config="true" signature="masterSetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterSetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterSetUp -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="SetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="primerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="primerTest" finished-at="2025-04-30T09:24:28 PET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primerTest -->
+        <test-method is-config="true" signature="masterTearDown()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterTearDown" finished-at="2025-04-30T09:24:28 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterTearDown -->
+        <test-method is-config="true" signature="masterSetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterSetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterSetUp -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="SetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="segundoTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="segundoTest" finished-at="2025-04-30T09:24:28 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- segundoTest -->
+        <test-method is-config="true" signature="masterTearDown()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterTearDown" finished-at="2025-04-30T09:24:28 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterTearDown -->
+        <test-method is-config="true" signature="masterSetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterSetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterSetUp -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="SetUp" finished-at="2025-04-30T09:24:28 PET" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="tercerTest()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="tercerTest" finished-at="2025-04-30T09:24:28 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tercerTest -->
+        <test-method is-config="true" signature="masterTearDown()[pri:0, instance:principal.ExcelMostruoTests@4cbd03e7]" started-at="2025-04-30T09:24:28 PET" name="masterTearDown" finished-at="2025-04-30T09:24:28 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterTearDown -->
+      </class> <!-- principal.ExcelMostruoTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

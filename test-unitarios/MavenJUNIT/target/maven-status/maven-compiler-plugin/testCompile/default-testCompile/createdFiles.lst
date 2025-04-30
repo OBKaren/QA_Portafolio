@@ -1,0 +1,6 @@
+principal\ExcelMostruoTests.class
+data\CustomData.class
+listeners\SuiteListeners.class
+listeners\TestListeners.class
+utilities\BaseTest.class
+utilities\Logs.class
