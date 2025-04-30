@@ -1,33 +1,28 @@
-# MavenTestNG01
+# Proyecto de Automatización con Java y Maven 02
 
-## Descripción
-Este proyecto es una aplicación de prueba desarrollada en **Java** utilizando **Maven** como herramienta de gestión de dependencias y **TestNG** como framework de pruebas. El objetivo principal es realizar pruebas relacionadas con la lectura y manipulación de datos de Excel, utilizando modelos y utilidades personalizadas.
+Este proyecto es un framework de pruebas automatizadas desarrollado en **Java** utilizando **JUnit 5** como framework de pruebas y **Log4j** para el manejo de logs. Además, se integra con **Allure** para la generación de reportes.
 
 ## Estructura del Proyecto
-El proyecto está organizado de la siguiente manera:
 
-- **`src/main/java`**: Código fuente principal (actualmente no utilizado en este proyecto).
-- **`src/test/java`**: Contiene las clases de prueba y utilidades necesarias para ejecutar las pruebas.
-  - **`principal`**: Clases principales de pruebas.
-  - **`utilities`**: Clases de soporte como `BaseTest` y `Logs`.
-  - **`reader`**: Clases para la lectura de datos desde Excel.
-  - **`modelos`**: Clases que representan los modelos de datos (como `Monstruo`).
+- **`src/test/java/utilities`**: Contiene clases utilitarias como `BaseTest` y `Logs` para la configuración y manejo de logs.
+- **`src/test/resources/allure.properties`**: Archivo de configuración para Allure.
+- **`listeners`**: Contiene los listeners personalizados para la ejecución de pruebas.
 
-## Dependencias Principales
-El proyecto utiliza las siguientes dependencias:
+## Características
 
-- **Log4j**: Para el manejo de logs.
-- **Poiji**: Para la lectura de archivos Excel y su mapeo a objetos Java.
-- **JavaFaker**: Para la generación de datos ficticios.
-- **Jackson Databind**: Para la manipulación de datos JSON.
-- **TestNG**: Framework de pruebas.
-- **SLF4J**: API de logging.
+- **Manejo de Logs**: Implementado con Log4j para diferentes niveles de logging (`info`, `debug`, `error`, etc.).
+- **Configuración Base**: La clase `BaseTest` incluye métodos de configuración (`@BeforeEach`) y limpieza (`@AfterEach`) para las pruebas.
+- **Integración con Allure**: Configuración para generar reportes detallados de las pruebas.
+- **Listeners Personalizados**: Extensiones de JUnit para manejar eventos durante la ejecución de las pruebas.
 
 ## Requisitos Previos
-- **Java 17** o superior.
-- **Maven** instalado en el sistema.
+
+- **Java 11 o superior**.
+- **Maven 3.6 o superior**.
+- Configuración de las variables de entorno para Java y Maven.
 
 ## Instalación
+
 1. Clona este repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
