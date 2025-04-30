@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una QA Tester con **5 años de experiencia** en pruebas funcionales y **1 año en automatización**, con un fuerte enfoque en **performance frontend**. Tengo experiencia utilizando herramientas como **Selenium**, **Java**, **SQL**, **Liferay**, **WordPress** y herramientas de **performance** como **Lighthouse**, **WebPageTest** y **GTmetrix**.
+¡Bienvenida/o a mi portafolio de calidad de software! Soy Karen Otoya, QA Tester con más de 5 años de experiencia en pruebas funcionales y 1 año en automatización, con un enfoque sólido en el rendimiento del frontend.
 
 Mi objetivo es mejorar la calidad del software a través de **pruebas automatizadas** y la optimización de la experiencia de usuario y rendimiento de los sitios web.
 
@@ -14,15 +14,14 @@ Mi objetivo es mejorar la calidad del software a través de **pruebas automatiza
 
 | Carpeta                  | Descripción                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| `functional-tests/`      | Pruebas automatizadas utilizando Selenium + Java                           |
-| `api-tests/`             | Pruebas de API con Postman y reportes automatizados                        |
-| `performance-tests/`     | Scripts de análisis de performance con Lighthouse, WebPageTest y GTmetrix  |
-| `accessibility-tests/`   | Evaluación de accesibilidad web con Axe                                    |
-| `bdd-tests/`             | Automatización con enfoque BDD usando Serenity + JUnit                     |
-| `mobile-tests/`          | Automatización de pruebas móviles con Appium                               |
-| `data/`                  | Consultas SQL aplicadas al testing de bases de datos                       |
-| `docs/`                  | Guías, documentación, CV y recursos útiles del ecosistema QA               |
-| `evidencias-qa-manual/`  | Evidencias prácticas del curso de QA Manual: casos de prueba, defectos y más |
+| `functional-tests/`      | Pruebas automatizadas con Selenium y Java                                   |
+| `api-tests/`             | Pruebas de API utilizando Postman y Newman                                  |
+| `performance-tests/`     | Evaluaciones de rendimiento con Lighthouse, GTmetrix y WebPageTest          |
+| `accessibility-tests/`   | Validaciones de accesibilidad web                                           |
+| `test-unitarios/`        | Pruebas unitarias con JUnit y TestNG                                        |
+| `evidencias-qa-manual/`  | Evidencias y reportes de pruebas manuales                                   |
+| `docs/`                  | Documentación técnica y de procesos                                         |
+| `data/`                  | Datos de prueba y configuraciones                                           |
 
 ---
 
